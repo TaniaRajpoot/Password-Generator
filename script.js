@@ -23,7 +23,7 @@ genBtn.addEventListener("click",()=>{
 let lowerChars = "abcdefghijklmnopqrstuvwxyz";
 let upperChars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 let allnumbers = "0123456789";
-let allsymbols = "~!@#$%^&*+";
+let allsymbols = "~!@#$%^&*+-()";
 
 
 //function to generate password 
